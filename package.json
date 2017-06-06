@@ -1,8 +1,16 @@
 {
-    "name": "relatethenews-js",
+    "name": "relatethenews-client",
     "version": "1.0.0",
+    "description": "Basic API Client for RelateTheNews",
     "keywords": ["util", "functional", "server", "client", "browser"],
-    "author": "tdecker",
-    "contributors": [],
-    "dependencies": {}
+    "homepage": "https://github.com/RelateTheNews/relatethenews-node",
+    "author": "RelateTheNews <support@relatethenews> (https://www.relatethenews.com/)",
+    "license": "SEE LICENSE IN LICENSE FILE"
+    "contributors": [
+        "Tim Decker <tdecker@relatethenews.com>"
+    ],
+    "main": "lib/relatethenews.js"
+    "dependencies": {
+        "jquery": "3.2.1"
+    }
 }
