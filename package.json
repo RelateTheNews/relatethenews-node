@@ -2,9 +2,9 @@
     "name": "relatethenews-client",
     "version": "1.0.0",
     "description": "Basic API Client for RelateTheNews",
-    "keywords": ["util", "functional", "server", "client", "browser"],
+    "keywords": ["api", "client"],
     "homepage": "https://github.com/RelateTheNews/relatethenews-node",
-    "author": "RelateTheNews <support@relatethenews> (https://www.relatethenews.com/)",
+    "author": "RelateTheNews <support@relatethenews.com> (https://www.relatethenews.com/)",
     "license": "SEE LICENSE IN LICENSE FILE"
     "contributors": [
         "Tim Decker <tdecker@relatethenews.com>"
