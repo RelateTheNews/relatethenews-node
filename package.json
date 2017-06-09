@@ -1,20 +1,27 @@
 {
-    "name": "relatethenews-client",
-    "version": "1.0.0",
-    "description": "Basic API Client for RelateTheNews",
-    "keywords": ["api", "client"],
-    "homepage": "https://github.com/RelateTheNews/relatethenews-node",
-    "author": "RelateTheNews <support@relatethenews.com> (https://www.relatethenews.com/)",
-    "license": "SEE LICENSE IN LICENSE FILE"
-    "contributors": [
-        "Tim Decker <tdecker@relatethenews.com>"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/RelateTheNews/relatethenews-node.git"
-    },
-    "main": "lib/relatethenews.js"
-    "dependencies": {
-        "jquery": "3.2.1"
-    }
+  "name": "relatethenews-client",
+  "version": "1.0.0",
+  "description": "Basic API Client for RelateTheNews",
+  "keywords": [
+    "api",
+    "client"
+  ],
+  "homepage": "https://github.com/RelateTheNews/relatethenews-node",
+  "author": "RelateTheNews <support@relatethenews.com> (https://www.relatethenews.com/)",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "contributors": [
+    "Tim Decker <tdecker@relatethenews.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RelateTheNews/relatethenews-node.git"
+  },
+  "main": "lib/relatethenews.js",
+  "dependencies": {
+    "jquery": "3.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
 }
